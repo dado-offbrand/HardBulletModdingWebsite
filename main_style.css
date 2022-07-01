@@ -1,6 +1,6 @@
 /* navbar content */
-.icon 
+.nav-icon
 {
-    size:50px 50px;
+    size:50px 50px !important;
     border-radius:100%;
 }
